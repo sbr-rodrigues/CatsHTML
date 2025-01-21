@@ -1,11 +1,8 @@
-# CatsHTML
-Page of the cats 
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset = 'utf-8'>
-        <title>CatPhotoApp</title>
+        <title> CatPhotoApp </title>
            </head>
            <body>
             <main>
