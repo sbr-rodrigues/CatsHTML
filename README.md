@@ -2,8 +2,7 @@
 <html lang="en">
     <head>
         <meta charset = 'utf-8'>
-        <title> CatPhotoApp </title>
-           </head>
+       </head>
            <body>
             <main>
               <h1>CatPhotoApp</h1>
